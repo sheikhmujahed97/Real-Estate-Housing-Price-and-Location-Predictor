@@ -1,0 +1,2 @@
+# Real-Estate-Housing-Price-and-Location-Predictor
+Solved the problem of predicting appropriate locations for the building an on demand house for real estate business, as for a builder to see which is the highest selling house type, which enables the builder to make house based on that, The algorithm used was Gradient Boosting Regressor and used Sea Born for aesthetic Data Visualization based on longitude and latitude, which gives clear picture of the market needs and demand that need to be produce, Achieved 91.4 percent of accuracy 
